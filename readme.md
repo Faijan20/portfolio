@@ -4,7 +4,7 @@ A modern, responsive developer portfolio showcasing my work in Android
 development, web engineering, and scalable application systems.
 
 🌐 **Live Website**  
-https://faijan20.github.io/faijan-portfolio/
+https://faijan20.github.io/portfolio/
 
 ---
 
